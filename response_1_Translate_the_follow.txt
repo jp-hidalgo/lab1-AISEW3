@@ -1,0 +1,6 @@
+Prompt:
+Translate the following sentence into French: Hello, how are you?
+
+Response:
+Bonjour, comment allez-vous ? 
+
