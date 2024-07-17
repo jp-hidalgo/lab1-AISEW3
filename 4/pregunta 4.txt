@@ -1,0 +1,1 @@
+for the prompts in point 4 I just put <language> to python then the code snip in codeium and the resusting code in each file is the output
