@@ -1,1 +1,2 @@
 I already had Codeium installed and keep up to date with the development of it on discord,so I'm going to do this point on this code assistant. I currently have it installed in VS Code.
+Codeium helped tremendusly with code and comment generation, it allowed me to do the requirements for the lab in a short ammount of time.
